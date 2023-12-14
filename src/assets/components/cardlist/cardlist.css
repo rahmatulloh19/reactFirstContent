@@ -1,0 +1,14 @@
+.cardlist {
+	padding-bottom: 45px;
+}
+
+.cardlist__list {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	row-gap: 75px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	list-style: none;
+}
